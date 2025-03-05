@@ -54,6 +54,7 @@
     </Interpreter>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HelloFlask\templates\index.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Web.targets" />
